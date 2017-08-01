@@ -75,6 +75,3 @@ Si vous utilisez RubyMine, vous devez taper la ligne suivante dans votre termina
 ```bash
 vagrant ssh-config | sed 's/^Host default/Host 127.0.0.1/' >> ~/.ssh/config
 ```
-
-## Configuration de l'extension .dev pour développer
-https://gt.gilbertlabs.com/outils/documents/blob/master/local_dev_domains.md
